@@ -1,0 +1,25 @@
+C:\Users\Steven Yuhansen\Documents\Visual Studio 2017\GUI\MultiTeksEditor\MultiTeksEditor\obj\Debug\MultiTeksEditor.vbprojAssemblyReference.cache
+C:\Users\Steven Yuhansen\Documents\Visual Studio 2017\GUI\MultiTeksEditor\MultiTeksEditor\obj\Debug\MultiTeksEditor.Form1.resources
+C:\Users\Steven Yuhansen\Documents\Visual Studio 2017\GUI\MultiTeksEditor\MultiTeksEditor\obj\Debug\MultiTeksEditor.Resources.resources
+C:\Users\Steven Yuhansen\Documents\Visual Studio 2017\GUI\MultiTeksEditor\MultiTeksEditor\obj\Debug\MultiTeksEditor.vbproj.GenerateResource.cache
+C:\Users\Steven Yuhansen\Documents\Visual Studio 2017\GUI\MultiTeksEditor\MultiTeksEditor\obj\Debug\MultiTeksEditor.vbproj.CoreCompileInputs.cache
+C:\Users\Steven Yuhansen\Documents\Visual Studio 2017\GUI\MultiTeksEditor\MultiTeksEditor\bin\Debug\MultiTeksEditor.exe.config
+C:\Users\Steven Yuhansen\Documents\Visual Studio 2017\GUI\MultiTeksEditor\MultiTeksEditor\bin\Debug\MultiTeksEditor.exe
+C:\Users\Steven Yuhansen\Documents\Visual Studio 2017\GUI\MultiTeksEditor\MultiTeksEditor\bin\Debug\MultiTeksEditor.pdb
+C:\Users\Steven Yuhansen\Documents\Visual Studio 2017\GUI\MultiTeksEditor\MultiTeksEditor\bin\Debug\MultiTeksEditor.xml
+C:\Users\Steven Yuhansen\Documents\Visual Studio 2017\GUI\MultiTeksEditor\MultiTeksEditor\obj\Debug\MultiTeksEditor.exe
+C:\Users\Steven Yuhansen\Documents\Visual Studio 2017\GUI\MultiTeksEditor\MultiTeksEditor\obj\Debug\MultiTeksEditor.xml
+C:\Users\Steven Yuhansen\Documents\Visual Studio 2017\GUI\MultiTeksEditor\MultiTeksEditor\obj\Debug\MultiTeksEditor.pdb
+E:\MultiTeksEditor\MultiTeksEditor\bin\Debug\MultiTeksEditor.exe.config
+E:\MultiTeksEditor\MultiTeksEditor\bin\Debug\MultiTeksEditor.exe
+E:\MultiTeksEditor\MultiTeksEditor\bin\Debug\MultiTeksEditor.pdb
+E:\MultiTeksEditor\MultiTeksEditor\bin\Debug\MultiTeksEditor.xml
+E:\MultiTeksEditor\MultiTeksEditor\obj\Debug\MultiTeksEditor.vbprojAssemblyReference.cache
+E:\MultiTeksEditor\MultiTeksEditor\obj\Debug\MultiTeksEditor.Form1.resources
+E:\MultiTeksEditor\MultiTeksEditor\obj\Debug\MultiTeksEditor.Resources.resources
+E:\MultiTeksEditor\MultiTeksEditor\obj\Debug\MultiTeksEditor.vbproj.GenerateResource.cache
+E:\MultiTeksEditor\MultiTeksEditor\obj\Debug\MultiTeksEditor.vbproj.CoreCompileInputs.cache
+E:\MultiTeksEditor\MultiTeksEditor\obj\Debug\MultiTeksEditor.exe
+E:\MultiTeksEditor\MultiTeksEditor\obj\Debug\MultiTeksEditor.xml
+E:\MultiTeksEditor\MultiTeksEditor\obj\Debug\MultiTeksEditor.pdb
+E:\MultiTeksEditor\MultiTeksEditor\obj\Debug\MultiTeksEditor.UserControl1.resources
